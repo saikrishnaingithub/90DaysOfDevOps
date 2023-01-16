@@ -1,0 +1,105 @@
+90 Days of DevOps Challenge. DAY 2
+
+
+Day 2 Task: Basics linux command
+
+Task: What is the Linux command to 
+
+1. Check your present working directory.
+
+Ans. To check the present working directory in linux is, "pwd" --> print work directory
+
+2. List all the files or directories including hidden files.
+
+Ans. 
+
+## Basic linux commands
+
+
+
+- ``ls`` --> The ls command is used to list files or directories in Linux and other Unix-based operating systems.
+
+
+- ``` ls -l ```--> Type the ls -l command to list the contents of the directory in a table format with columns including.
+    - content permissions
+
+    - number of links to the content
+
+    - owner of the content
+
+    - group owner of the content
+
+    - size of the content in bytes
+
+    - last modified date / time of the content
+
+    - file or directory name
+
+
+
+- ```ls -a ```--> Type the ls -a command to list files or directories including hidden files or directories. In Linux, anything that begins with a . is considered a hidden file.
+
+
+- ```ls -i ``` --> List the files and directories with index numbers in oders
+
+
+- ``` ls -d */``` --> Type the ls -d */ command to list only directories.
+
+
+## Directoy commands
+
+- ```pwd``` --> Print work directory. Gives the present working directory.
+
+
+- ```cd path_to_directory``` --> Change directory to the provided path.
+
+
+- ```cd ~ ``` or just ```cd ``` --> Change directory to the home directory.
+
+
+- ``` cd - ``` --> Go to the last working directory.
+
+
+- ``` cd ..``` --> Chnage directory to one step back.
+
+
+- ``` cd ../..``` --> Use ls ../.. for contents two levels above.
+
+3. Create a nested directory A/B/C/D/E
+
+Ans. mkdir -p A/B/C/D --> To Make a nested directory
+
+
+
+--------------------------------------------------------------------
+
+
+
+github repo - https://github.com/Hussain147/90DaysOfDevOps
+
+
+
+Credits- Shubham Londhe
+
+#linux #github
+
+#devops #team #technology #automation 
+
+#connections #community #development #learning 
+
+#github #communication #software #collaboration 
+
+#quality #content #infrastructure #softwaredevelopment 
+
+#work #gcp #9odaysofdevops #cloud #aws #challengeaccepted 
+
+#challengeyourself #devopsjobs #devopstraining #devopstools 
+
+#certifications #cloudready #shellscripting #cloudengineer 
+
+#linuxsystemadministration #linuxworld #linuxkernel #linux 
+
+#devopscommunity #terraform #gcpcloud #cloudready #recruitment 
+
+#Shubham Londhe
+
