@@ -1,0 +1,62 @@
+90 Days of DevOps Challenge. DAY 3
+
+# Basic Linux Commands
+
+1. To view what's written in a file.
+    - ``` cat <filename> ``` 
+
+
+
+2. To change the access permissions of files.
+   
+    - ``` chmod 777 <foldername> ``` 
+
+3. To check which commands you have run till now.
+
+   - ``` history ``` 
+
+4. To remove a directory/ Folder.
+
+      - ``` rm -r <filename> ``` 
+      
+    -  ``` rm dir <foldername> ``` 
+    
+5. To create a fruits.txt file and to view the content.
+    -To create: ``` vim fruits.txt ``` 
+    -To Read Content:  ```  cat fruits.txt ``` 
+
+6. Add content in devops.txt - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+    -    ```step 1. vim devops.txt
+            step 2. press i(insert)
+            step 3. write what you want
+            step 4. press ESC key & write 'wq!' & press ENTER``` 
+
+7. To Show only top three fruits from the file.
+    -    ```cat fruits.txt -3 head ```
+
+8. To Show only bottom three fruits from the file.
+    -    ```cat fruits.txt -3 tail ```
+9. To create another file Colors.txt and to view the content.
+    - To Create a file:  ``` touch Colors.txt```
+    - To View a file:  ``` cat Colors.txt```
+10. Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+    -    ```step 1. vim Colors.txt
+            step 2. press i(insert)
+            step 3. write what you want
+            step 4. press ESC key & write 'wq!' & press ENTER```
+
+11. To find the difference between fruits.txt and Colors.txt file.
+    -   ``` diff fruits.txt Colors.txt```
+
+
+--------------------------------------------------------------------
+
+
+
+github repo - https://github.com/Hussain147/90DaysOfDevOps
+
+Credits- Shubham Londhe
+
+#linux #github #devops #team #technology #automation #connections #community #development #learning #github #communication #software #collaboration #quality #content #infrastructure #softwaredevelopment #work #gcp #9odaysofdevops #cloud #aws #challengeaccepted #challengeyourself #devopsjobs #devopstraining #devopstools #certifications #cloudready #shellscripting #cloudengineer #linuxsystemadministration #linuxworld #linuxkernel #linux #devopscommunity #terraform #gcpcloud #cloudready #recruitment #Shubham Londhe
+
+ 
