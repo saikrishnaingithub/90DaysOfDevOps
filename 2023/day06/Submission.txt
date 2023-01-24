@@ -1,3 +1,5 @@
+#90DaysOfDevOps DAY 6
+
 # Day 6 Task: File Permissions and Access Control Lists
 
 ### Today is more on Reading, Learning and Implementing File permissions
@@ -44,6 +46,12 @@ With ACL, you can grant permission to multiple users and groups, identified by u
 
 -   setfacl -m u:vagrant:rw test	  ## Hear we have set read and write permission for vagrant user, who dont have access to the file before.
  
-In case of any doubts, post it on [Discord Community](https://discord.gg/hs3Pmc5F)
+--------------------------------------------------------------------
 
-Happy Learning
+
+
+github repo - https://github.com/Hussain147/90DaysOfDevOps
+
+Credits- Shubham Londhe
+
+#linux #github #devops #team #technology #automation #connections #community #development #learning #github #communication #software #collaboration #quality #content #infrastructure #softwaredevelopment #work #gcp #9odaysofdevops #cloud #aws #challengeaccepted #challengeyourself #devopsjobs #devopstraining #devopstools #certifications #cloudready #shellscripting #cloudengineer #linuxsystemadministration #linuxworld #linuxkernel #linux #devopscommunity #terraform #gcpcloud #cloudready #LCO #lco #learncodeonline #hiteshchoudary #ineuron #nxtwave #recruitment #Shubham Londhe 
